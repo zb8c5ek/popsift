@@ -1,0 +1,12 @@
+{
+  "name" : "popsift",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "78b61582c9e093fda56a01ebb654be15a0033897",
+  "dependencies" : [ {
+    "name" : "devil",
+    "version>=" : "1.8.0#10"
+  }, {
+    "name" : "boost",
+    "version>=" : "1.82.0#2"
+  } ]
+}
